@@ -19,6 +19,12 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 ## 🚀 Proyectos destacados  
 
+
+
+**Front-End** |  
+:---: | 
+<img src="https://skillicons.dev/icons?i=js,react,tailwind" alt="Frontend Skills" /> |
+
 ### 🛸 **Cosmic Pizza**: Sistema web para gestión de reservas y clientes 🍕  
 **Repositorio en GitHub:** [github.com/FernadoCodeDev](https://github.com/FernadoCodeDev)  
 
@@ -32,8 +38,11 @@ Cosmic Pizza es una solución integral para negocios con alta demanda, enfocada 
 - ✅ **API personalizada:** Manejo seguro de reservas con intercambio de datos en formato JSON.  
 
 **Tecnologías utilizadas:**  
-- **Frontend:** HTML | CSS | SASS | JavaScript  
-- **Backend:** PHP | MySQL  
+
+**Front-End** | **Back-End** | **Bases de Datos** | 
+:---: | :---: | :---: |
+<img src="https://skillicons.dev/icons?i=html,css,sass,js" alt="Frontend Skills" /> | <img src="https://skillicons.dev/icons?i=php" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="Databases Skills" /> |
+
 - **Arquitectura:** Modelo-Vista-Controlador (MVC)  
 
 **Logro destacado:**  
@@ -54,8 +63,9 @@ KeysHomes es un sistema web diseñado específicamente para empresas inmobiliari
 - ✅ **Arquitectura escalable:** Estructura flexible y modular que puede adaptarse a otros negocios como zapaterías, joyerías o tiendas del hogar.  
 
 **Tecnologías utilizadas:**  
-- **Frontend:** HTML | CSS | SASS | JavaScript  
-- **Backend:** PHP | MySQL  
+**Front-End** | **Back-End** | **Bases de Datos** | 
+:---: | :---: | :---: |
+<img src="https://skillicons.dev/icons?i=html,css,sass,js" alt="Frontend Skills" /> | <img src="https://skillicons.dev/icons?i=php" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="Databases Skills" /> |
 
 **Logro destacado:**  
 Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sino que puede ser ampliado para incluir funciones avanzadas como pasarelas de pago para ventas en línea. Este proyecto demuestra mi capacidad para implementar soluciones prácticas y escalables basadas en fundamentos sólidos.  
@@ -65,12 +75,9 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 ## 🛠️ Habilidades  
 
 ### 
-
-
 **Front-End** | **Back-End** | **Bases de Datos** | **Aprendiendo** | **Herramientas** 
 :---: | :---: | :---: | :---: | :---: 
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,jquery,bootstrap,redux" alt="Frontend Skills" /> | <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases Skills" /> | <img src="https://skillicons.dev/icons?i=django,nextjs" alt="Learning Skills" /> | <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,postman,docker,figma" alt="Tools Skills" /> 
-
 
 ### **Prácticas de Desarrollo**  
 - Diseño y modelado de bases de datos relacionales  
