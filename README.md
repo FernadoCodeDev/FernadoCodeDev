@@ -17,19 +17,33 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 🔗 **Visita mi portafolio personal:**  
 👉 [fercode.atwebpages.com](http://fercode.atwebpages.com)  
 
-## 🚀 Proyectos destacados  
+# 🚀 Proyectos destacados  
+
+## ⛏ **LandingMine** Colección de Landing Pages con React y Tailwind CSS 🎨
+**Repositorio en GitHub:** [github.com/FernadoCodeDev](https://github.com/FernadoCodeDev/LandingMine)  
+
+**LandingMine** es un proyecto enfocado en el desarrollo de landing pages modernas y optimizadas utilizando React y Tailwind CSS. Su objetivo principal es mejorar mis habilidades en Front-End, explorando diferentes estilos y temáticas para la creación de interfaces atractivas y funcionales.
+
+🌟 **Características principales**
+- ✅ Colección de landing pages: Diferentes diseños con enfoques únicos para distintos sectores.
+- ✅ Uso avanzado de Tailwind CSS: Aplicación de utilidades y componentes optimizados para una mejor experiencia de usuario.
+- ✅ Diseño responsive: Adaptación automática a dispositivos móviles, tablets y escritorios.
+- ✅ Interactividad con React: Implementación de componentes reutilizables y dinámicos.
 
 
-
-**Front-End** |  
+**🛠️ Tecnologías utilizadas:** |  
 :---: | 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind" alt="Frontend Skills" /> |
 
-### 🛸 **Cosmic Pizza**: Sistema web para gestión de reservas y clientes 🍕  
+🏆 **Logro destacado:**
+LandingMine no solo es una práctica en diseño y desarrollo Front-End, sino también un ejercicio para perfeccionar el uso de Tailwind CSS en la creación de interfaces modernas y eficientes. A través de este proyecto, estoy fortaleciendo mis habilidades en React y explorando nuevas técnicas para la optimización de estilos y rendimiento en la web.
+
+---
+
+## 🛸 **Cosmic Pizza** Sistema web para gestión de reservas y clientes 🍕  
 **Repositorio en GitHub:** [github.com/FernadoCodeDev](https://github.com/FernadoCodeDev)  
 
-**Descripción:**  
-Cosmic Pizza es una solución integral para negocios con alta demanda, enfocada en la gestión de reservas, clientes y operaciones internas. Su diseño modular lo hace adaptable para diferentes industrias, como restaurantes, cines o clínicas.  
+**Cosmic Pizza** es una solución integral para negocios con alta demanda, enfocada en la gestión de reservas, clientes y operaciones internas. Su diseño modular lo hace adaptable para diferentes industrias, como restaurantes, cines o clínicas.  
 
 **Características principales:**  
 - ✅ **Sistema de reservas:** Registro, inicio de sesión y gestión de reservas por fecha y mesa.  
@@ -45,17 +59,16 @@ Cosmic Pizza es una solución integral para negocios con alta demanda, enfocada 
 
 - **Arquitectura:** Modelo-Vista-Controlador (MVC)  
 
-**Logro destacado:**  
+🏆 **Logro destacado:**  
 Desarrollé una API personalizada y un sistema de reservas robusto que garantiza la seguridad y eficiencia en el manejo de datos. Este proyecto no solo demuestra mi capacidad técnica, sino también mi habilidad para diseñar soluciones prácticas que combinan lo teórico y lo práctico en cada etapa del desarrollo.  
 
 ---
 
-### 🔑 **KeysHomes**: Sistema de Gestión de Propiedades Inmobiliarias 🏠  
+## 🔑 **KeysHomes** Sistema de Gestión de Propiedades Inmobiliarias 🏠  
 **URL del proyecto:** [keyshome.atwebpages.com](http://keyshome.atwebpages.com)  
 **Repositorio en GitHub:** [github.com/FernadoCodeDev](https://github.com/FernadoCodeDev)  
 
-**Descripción:**  
-KeysHomes es un sistema web diseñado específicamente para empresas inmobiliarias, facilitando la gestión de propiedades y mejorando la experiencia del cliente.  
+**KeysHomes** es un sistema web diseñado específicamente para empresas inmobiliarias, facilitando la gestión de propiedades y mejorando la experiencia del cliente.  
 
 **Características principales:**  
 - ✅ **Gestión de propiedades:** Sistema **CRUD (Create, Read, Update, Delete)** para crear, editar y eliminar publicaciones desde un backend robusto en PHP conectado a una base de datos MySQL.  
@@ -67,7 +80,7 @@ KeysHomes es un sistema web diseñado específicamente para empresas inmobiliari
 :---: | :---: | :---: |
 <img src="https://skillicons.dev/icons?i=html,css,sass,js" alt="Frontend Skills" /> | <img src="https://skillicons.dev/icons?i=php" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="Databases Skills" /> |
 
-**Logro destacado:**  
+🏆 **Logro destacado:**  
 Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sino que puede ser ampliado para incluir funciones avanzadas como pasarelas de pago para ventas en línea. Este proyecto demuestra mi capacidad para implementar soluciones prácticas y escalables basadas en fundamentos sólidos.  
 
 ---
@@ -87,7 +100,6 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 - Operaciones **CRUD (Create, Read, Update, Delete)**  
 - Creación y consumo de **RESTful APIs**  
 - Conocimientos de pasarelas de pago con PayPal
-
 
 ## 📫 Contacto 
 <a href="https://www.linkedin.com/in/fernando-mejía/" target="_blank">
