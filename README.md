@@ -31,7 +31,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 - ✅ Interactividad con React: Implementación de componentes reutilizables y dinámicos.
 
 
-**🛠️ Tecnologías utilizadas:** |  
+🛠️ **Tecnologías utilizadas** |  
 :---: | 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind" alt="Frontend Skills" /> |
 
