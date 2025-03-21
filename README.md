@@ -20,7 +20,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 # 🚀 Proyectos destacados  
 
 ## ⛏ **LandingMine** Colección de Landing Pages con React y Tailwind CSS 🎨
-**URL del proyecto:** [github.com/FernadoCodeDev](https://landingmine.netlify.app/)  
+**URL del proyecto:** [LandingMine](https://landingmine.netlify.app/)  
 **Repositorio en GitHub:** [github.com/FernadoCodeDev](https://github.com/FernadoCodeDev/LandingMine)  
 
 **LandingMine** es un proyecto enfocado en el desarrollo de landing pages modernas y optimizadas utilizando React y Tailwind CSS. Su objetivo principal es mejorar mis habilidades en Front-End, explorando diferentes estilos y temáticas para la creación de interfaces atractivas y funcionales.
