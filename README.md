@@ -15,7 +15,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 🤝 Me encanta trabajar en equipo, colaborar en proyectos innovadores y aportar soluciones creativas que superen las expectativas del cliente. Mi objetivo es seguir aprendiendo, implementar nuevas tecnologías y contribuir al desarrollo tecnológico con impacto positivo.  
 
 🔗 **Visita mi portafolio personal:**  
-👉 [fercode.atwebpages.com](https://fercode.netlify.app/)  
+👉 [portafolio](https://fercode.netlify.app/)  
 
 # 🚀 Proyectos destacados  
 
