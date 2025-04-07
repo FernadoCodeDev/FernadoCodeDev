@@ -91,7 +91,7 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 ### 
 **Front-End** | **Back-End** | **Bases de Datos** | **Aprendiendo** | **Herramientas** 
 :---: | :---: | :---: | :---: | :---: 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,jquery,bootstrap,redux" alt="Frontend Skills" /> | <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases Skills" /> | <img src="https://skillicons.dev/icons?i=django,nextjs" alt="Learning Skills" /> | <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,postman,docker,figma" alt="Tools Skills" /> 
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,jquery,bootstrap,redux" alt="Frontend Skills" /> | <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases Skills" /> | <img src="https://skillicons.dev/icons?i=astro" alt="Learning Skills" /> | <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,postman,docker,figma" alt="Tools Skills" /> 
 
 ### **Prácticas de Desarrollo**  
 - Diseño y modelado de bases de datos relacionales  
