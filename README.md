@@ -109,7 +109,7 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 <a href="https://github.com/FernadoCodeDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
 </a>
-<a href="https://fercode.atwebpages.com" target="_blank">
+<a href="https://fercode.netlify.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" alt="devto" />
 </a>
 <a href="mailto:fernadocode@gmail.com" target="_blank">
