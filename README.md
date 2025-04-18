@@ -93,19 +93,19 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 :---: | 
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,jquery,bootstrap,redux" alt="Frontend Skills" /> |
 
-**Back-End*** | 
+**Back-End** | 
 :---: | 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" alt="Backend Skills" /> |
 
-**Bases de Datos*** | 
+**Bases de Datos** | 
 :---: | 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases Skills" /> |
 
-**Aprendiendo*** | 
+**Aprendiendo** | 
 :---: | 
 <img src="https://skillicons.dev/icons?i=astro,docker" alt="Learning Skills" /> |
 
-**Herramientas*** | 
+**Herramientas** | 
 :---: | 
 <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,postman,figma" alt="Tools Skills" /> |
 
