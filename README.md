@@ -113,7 +113,7 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 - Conocimientos de pasarelas de pago con PayPal
 
 ## 📫 Contacto 
-<a href="https://www.linkedin.com/in/fernando-mejía/" target="_blank">
+<a href="https://www.linkedin.com/in/fernando-mejía-866a4b363" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://github.com/FernadoCodeDev" target="_blank">
