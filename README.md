@@ -122,7 +122,7 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 <a href="https://fercode.netlify.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" alt="devto" />
 </a>
-<a href="mailto:fernadocode@gmail.com" target="_blank">
+<a href="mailto:fernandomejiadev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 </a>
 
