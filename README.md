@@ -32,7 +32,7 @@ Este proyecto fue desarrollado como parte de la [Hackathon de MiduDev 2025](http
 **CódiGol** nace como una forma distinta, entretenida y dinámica de dominar Tailwind CSS, combinando el aprendizaje progresivo con mecánicas de juego.
 
 ### 🏅 Logro destacado
-Durante la transmisión final de la Hackathon organizada por Midudev y Clerk SDK, CódiGol fue reconocido como uno de los proyectos más originales, recibiendo una mención especial.
+Durante la transmisión final de la Hackathon organizada por  [MiduDev](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n) y [Clerk SDK](https://clerk.com/docs), CódiGol fue reconocido como uno de los proyectos más originales, recibiendo una mención especial.
 
 🌟 **Características principales**
 - ✅ Aprendizaje interactivo de Tailwind CSS
