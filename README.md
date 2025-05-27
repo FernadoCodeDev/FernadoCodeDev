@@ -34,16 +34,12 @@ Este proyecto fue desarrollado como parte de la [Hackathon de MiduDev 2025](http
 ### 🏅 Logro destacado
 Durante la transmisión final de la Hackathon organizada por Midudev y Clerk SDK, CódiGol fue reconocido como uno de los proyectos más originales, recibiendo una mención especial.
 
-
-
 🌟 **Características principales**
 - ✅ Aprendizaje interactivo de Tailwind CSS
 - ✅ Ambientación futbolera con historia y personajes
 - ✅ Mecánicas tipo quiz + diseño práctico
 - ✅ Autenticación de usuarios con Clerk SDK
 - ✅ Estilo y diseño responsive con Tailwind CSS
-- ✅ Desarrollado con HTML, JavaScript y Tailwind CSS
-
 
 🛠️ **Tecnologías utilizadas** |  
 :---: | 
