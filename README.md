@@ -19,6 +19,43 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 # 🚀 Proyectos destacados  
 
+
+
+## ⚽ **CódiGol** Aprende Tailwind CSS Jugando 🎨
+**URL del proyecto:** [CódiGol](https://codigol-demo.netlify.app/)  
+**Repositorio en GitHub:** [GitHub CódiGol](https://github.com/FernadoCodeDev/CodiGol-Demo)  
+
+**CódiGol** es un pequeño videojuego web diseñado para ayudarte a aprender y practicar **Tailwind CSS** de forma divertida y diferente. Inspirado en la emoción del fútbol, este juego te reta a **anotar goles completando desafíos de diseño** usando clases utilitarias de Tailwind.
+
+Este proyecto fue desarrollado como parte de la [Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n), completado en menos de 10 días (del 8 al 21 de mayo). Originalmente concebido como una herramienta para aprender JavaScript, el enfoque cambió al notar la falta de recursos interactivos dedicados a Tailwind CSS, más allá de su documentación oficial.
+
+**CódiGol** nace como una forma distinta, entretenida y dinámica de dominar Tailwind CSS, combinando el aprendizaje progresivo con mecánicas de juego.
+
+### 🏅 Logro destacado
+Durante la transmisión final de la Hackathon organizada por Midudev y Clerk SDK, CódiGol fue reconocido como uno de los proyectos más originales, recibiendo una mención especial.
+
+
+
+🌟 **Características principales**
+- ✅ Aprendizaje interactivo de Tailwind CSS
+- ✅ Ambientación futbolera con historia y personajes
+- ✅ Mecánicas tipo quiz + diseño práctico
+- ✅ Autenticación de usuarios con Clerk SDK
+- ✅ Estilo y diseño responsive con Tailwind CSS
+- ✅ Desarrollado con HTML, JavaScript y Tailwind CSS
+
+
+🛠️ **Tecnologías utilizadas** |  
+:---: | 
+<img src="https://skillicons.dev/icons?i=js,react,tailwind" alt="Frontend Skills" /> |
+
+- [Clerk SDK](https://clerk.com/docs) ( para el sistema de login )
+
+🏆 **Logro destacado:**
+CódiGol no solo fue un reto técnico y creativo, también representa el avance en mi proceso de aprendizaje como desarrollador front-end. Es un ejemplo de cómo se puede enseñar de manera diferente utilizando elementos de gamificación para aprender habilidades reales del desarrollo web.
+
+---
+
 ## ⛏ **LandingMine** Colección de Landing Pages con React y Tailwind CSS 🎨
 **URL del proyecto:** [LandingMine](https://landingmine.netlify.app/)  
 **Repositorio en GitHub:** [github.com/FernadoCodeDev](https://github.com/FernadoCodeDev/LandingMine)  
