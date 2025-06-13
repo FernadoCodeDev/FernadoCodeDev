@@ -67,7 +67,7 @@ CódiGol no solo fue un reto técnico y creativo, también representa el avance 
 
 🛠️ **Tecnologías utilizadas** |  
 :---: | 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind" alt="Frontend Skills" /> |
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,vite" alt="Frontend Skills" /> |
 
 🏆 **Logro destacado:**
 LandingMine no solo es una práctica en diseño y desarrollo Front-End, sino también un ejercicio para perfeccionar el uso de Tailwind CSS en la creación de interfaces modernas y eficientes. A través de este proyecto, estoy fortaleciendo mis habilidades en React y explorando nuevas técnicas para la optimización de estilos y rendimiento en la web.
@@ -124,7 +124,7 @@ Diseñé un sistema completo que no solo organiza propiedades inmobiliarias, sin
 ### 
 **Front-End** | 
 :---: | 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,jquery,bootstrap,redux" alt="Frontend Skills" /> |
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,vite,jquery,bootstrap,redux" alt="Frontend Skills" /> |
 
 **Back-End** | **Bases de Datos** | 
 :---: | :---: | 
