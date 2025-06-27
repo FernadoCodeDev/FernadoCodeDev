@@ -26,7 +26,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 **Back-End** | **Bases de Datos** | 
 :---: | :---: | 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases Skills" /> |
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases Skills" /> |
 
 
 **Aprendiendo** | **Herramientas** | 
