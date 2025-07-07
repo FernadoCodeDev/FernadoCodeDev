@@ -22,7 +22,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 ### 
 **Front-End** | 
 :---: | 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,vite,jquery,bootstrap,redux" alt="Frontend Skills" /> |
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,astro,vite,jquery,bootstrap,redux" alt="Frontend Skills" /> |
 
 **Back-End** | **Bases de Datos** | 
 :---: | :---: | 
@@ -31,7 +31,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 **Aprendiendo** | **Herramientas** | 
 :---: | :---: | 
-<img src="https://skillicons.dev/icons?i=astro,docker" alt="Learning Skills" /> | <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,postman,figma" alt="Tools Skills" /> |
+<img src="https://skillicons.dev/icons?i=docker" alt="Learning Skills" /> | <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,postman,figma" alt="Tools Skills" /> |
 
 
 ### **Prácticas de Desarrollo**  
