@@ -44,16 +44,15 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 - Conocimientos de pasarelas de pago con PayPal
 
 ## 📫 Contacto 
-<a href="https://www.linkedin.com/in/fernando-mejía-866a4b363" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://github.com/FernadoCodeDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" />
-</a>
-<a href="https://fercode.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="devto" />
-</a>
-<a href="mailto:fernandomejiadev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
-</a>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=readdotcv&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/fernando-mejía-866a4b363)
+[![GITHUB](https://img.shields.io/static/v1?message=GITHUB&logo=Github&label=&color=22262A&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FernadoCodeDev)
+[![pagina-web](https://img.shields.io/static/v1?message=Página-Personal&logo=devbox&label=&color=071D49&logoColor=white&labelColor=&style=for-the-badge)](https://fercode.netlify.app/)
+[![GMAIL](https://img.shields.io/static/v1?message=GMAIl-fernandomejiadev@gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge)](mailto:fernandomejiadev@gmail.com)
+
+</div>
+
+
 
