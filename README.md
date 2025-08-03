@@ -16,7 +16,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 🔗 **Visita mi portafolio personal:**  
 
-[![pagina-web](https://img.shields.io/static/v1?message=Página-Personal&logo=devbox&label=&color=071D49&logoColor=white&labelColor=&style=for-the-badge)](https://fercode.netlify.app/)
+[![portafolio](https://img.shields.io/static/v1?message=portafolio&logo=devbox&label=&color=071D49&logoColor=white&labelColor=&style=for-the-badge)](https://fercode.netlify.app/)
 
 ## 🛠️ Habilidades  
 
@@ -60,6 +60,8 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 <div align="left">
   
 ![docker](https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge)
+![wordpress](https://img.shields.io/static/v1?message=wordpress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge)
+
 
 </div>  
 
@@ -88,7 +90,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 ## 📫 Contacto 
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=readdotcv&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/fernando-mejía-866a4b363)
 [![GITHUB](https://img.shields.io/static/v1?message=GITHUB&logo=Github&label=&color=22262A&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FernadoCodeDev)
