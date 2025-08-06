@@ -98,6 +98,3 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 [![GMAIL](https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge)](mailto:fernandomejiadev@gmail.com)
 
 </div>
-
-
-
