@@ -61,6 +61,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
   
 ![docker](https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge)
 ![wordpress](https://img.shields.io/static/v1?message=wordpress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge)
+![vuedotjs](https://img.shields.io/static/v1?message=vuejs&logo=vuedotjs&label=&color=4FC08D&logoColor=white&labelColor=&style=for-the-badge)
 
 
 </div>  
