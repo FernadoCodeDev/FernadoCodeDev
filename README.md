@@ -81,13 +81,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 </div>
 
 ### **Prácticas de Desarrollo**  
-- Diseño y modelado de bases de datos relacionales  
-- Uso de herramientas de modelado entidad-relación (E-R)  
-- Diseño responsivo para diferentes dispositivos  
-- Arquitectura MVC (Model-View-Controller)  
-- Operaciones **CRUD (Create, Read, Update, Delete)**  
-- Creación y consumo de **RESTful APIs**  
-- Conocimientos de pasarelas de pago con PayPal
+
 
 ## 📫 Contacto 
 
