@@ -81,6 +81,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 </div>
 
 ### **Prácticas de Desarrollo**  
+![databases](https://img.shields.io/static/v1?message=Diseño-y-modelado-de-bases-de-datos-relacionales&logo=databricks&label=&color=FF3621&logoColor=white&labelColor=&style=for-the-badge)
 
 
 ## 📫 Contacto 
