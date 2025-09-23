@@ -60,7 +60,6 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 <div align="left">
   
 ![docker](https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge)
-![wordpress](https://img.shields.io/static/v1?message=wordpress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge)
 ![vuedotjs](https://img.shields.io/static/v1?message=vuejs&logo=vuedotjs&label=&color=4FC08D&logoColor=white&labelColor=&style=for-the-badge)
 
 
@@ -77,6 +76,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 ![figma](https://img.shields.io/static/v1?message=figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
 ![canva](https://img.shields.io/static/v1?message=canva&logo=canva&label=&color=00C4CC&logoColor=white&labelColor=&style=for-the-badge)
 ![clerk](https://img.shields.io/static/v1?message=clerk&logo=clerk&label=&color=6C47FF&logoColor=white&labelColor=&style=for-the-badge)
+![wordpress](https://img.shields.io/static/v1?message=wordpress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge)
 
 </div>
 
