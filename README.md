@@ -89,6 +89,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 ![responsive](https://img.shields.io/static/v1?message=Diseño-responsivo&logo=fonoma&label=&color=0928FF&logoColor=white&labelColor=&style=for-the-badge)
 ![mvc](https://img.shields.io/static/v1?message=arquitectura-Model-View-Controller&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge)
 ![CRUD](https://img.shields.io/static/v1?message=crud&label=&color=231815&logoColor=white&labelColor=&style=for-the-badge)
+![RESTful-APIs](https://img.shields.io/static/v1?message=RESTful-APIs&label=&color=96060C&logoColor=white&labelColor=&style=for-the-badge)
 
 
 </div>
