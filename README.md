@@ -5,14 +5,7 @@
 
 Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicaciones robustas, escalables y atractivas. Tengo habilidades tanto en **Frontend** como en **Backend**, lo que me permite abordar proyectos desde una perspectiva integral.  
 
-📌 **Experiencia destacada:**  
-- 🌐 Desarrollo de proyectos aplicando la arquitectura **Model View Controller (MVC)**.  
-- 🛠️ Implementación de operaciones **CRUD (Create, Read, Update, Delete)** para manejar datos de forma eficiente.  
-- 💳 Configuración de **pasarelas de pago con PayPal**, garantizando transacciones seguras y fluidas.  
-- 🎨 Creación de interfaces intuitivas utilizando **JavaScript**, **TypeScript**, **React**, **Astro** y **TailwindCSS**.  
-- ⚙️ Desarrollo backend con **PHP**, **Laravel** y **MySQL**, enfocándome en soluciones seguras y eficientes.  
-
-🤝 Me encanta trabajar en equipo, colaborar en proyectos innovadores y aportar soluciones creativas que superen las expectativas del cliente. Mi objetivo es seguir aprendiendo, implementar nuevas tecnologías y contribuir al desarrollo tecnológico con impacto positivo.  
+Me encanta trabajar en equipo, colaborar en proyectos innovadores y aportar soluciones creativas que superen las expectativas del cliente. Mi objetivo es seguir aprendiendo, implementar nuevas tecnologías y contribuir al desarrollo tecnológico con impacto positivo.  
 
 🔗 **Visita mi portafolio personal:**  
 
