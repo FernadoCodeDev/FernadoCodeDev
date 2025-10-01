@@ -7,10 +7,6 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 
 Me encanta trabajar en equipo, colaborar en proyectos innovadores y aportar soluciones creativas que superen las expectativas del cliente. Mi objetivo es seguir aprendiendo, implementar nuevas tecnologías y contribuir al desarrollo tecnológico con impacto positivo.  
 
-🔗 **Visita mi portafolio personal:**  
-
-[![portafolio](https://img.shields.io/static/v1?message=portafolio&logo=devbox&label=&color=071D49&logoColor=white&labelColor=&style=for-the-badge)](https://fercode.netlify.app/)
-
 ## 🛠️ Habilidades  
 
 ### Front-End
