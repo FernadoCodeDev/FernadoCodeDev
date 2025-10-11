@@ -77,7 +77,6 @@ Me encanta trabajar en equipo, colaborar en proyectos innovadores y aportar solu
 ![data](https://img.shields.io/static/v1?message=Uso-de-herramientas-de-modelado-entidad-relación-(E-R)&label=&color=6C47FF&logoColor=white&labelColor=&style=for-the-badge)
 ![responsive](https://img.shields.io/static/v1?message=Diseño-responsivo&logo=fonoma&label=&color=0928FF&logoColor=white&labelColor=&style=for-the-badge)
 ![mvc](https://img.shields.io/static/v1?message=arquitectura-Model-View-Controller&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge)
-![CRUD](https://img.shields.io/static/v1?message=crud&label=&color=231815&logoColor=white&labelColor=&style=for-the-badge)
 ![RESTful-APIs](https://img.shields.io/static/v1?message=RESTful-APIs&label=&color=96060C&logoColor=white&labelColor=&style=for-the-badge)
 
 
