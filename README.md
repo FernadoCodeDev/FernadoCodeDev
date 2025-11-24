@@ -60,6 +60,7 @@ Me encanta trabajar en equipo, colaborar en proyectos innovadores y aportar solu
 ![git](https://img.shields.io/static/v1?message=git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge)
 ![github](https://img.shields.io/static/v1?message=github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)
 ![npm](https://img.shields.io/static/v1?message=npm&logo=npm&label=&color=CB3837&logoColor=white&labelColor=&style=for-the-badge)
+![pnpm](https://img.shields.io/static/v1?message=pnpm&logo=pnpm&label=&color=F69220&logoColor=white&labelColor=&style=for-the-badge)
 ![gulp](https://img.shields.io/static/v1?message=gulp&logo=gulp&label=&color=CF4647&logoColor=white&labelColor=&style=for-the-badge)
 ![postman](https://img.shields.io/static/v1?message=postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge)
 ![figma](https://img.shields.io/static/v1?message=figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
